@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🟢 I'm currently learning Java and flutter Dart<br><br>🔴 Aim: To create a full stack project<br><br>🔵 Email: Andrew.rengifo.m@gmail.com</p>
+<p align="left">🟢 I'm currently learning Java and flutter Dart<br><br>🔴 Aim: To Learn Swift <br><br>🔵 Email: Andrew.rengifo.m@gmail.com</p>
 
 ###
 
